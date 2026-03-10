@@ -2,6 +2,8 @@
 
 YouTube Simple View is a browser extension that helps you minimize some of the unnecessary distractions on the YouTube interface while watching videos. It enables you to stay focused when you need to.
 
+![YouTube Simple View Screenshot](./assets/ext-screenshot.png)
+
 ### Browsers support
 
 | [<img src="./assets/chrome_48.png" alt="Chrome" width="24px" height="24px" /><br/>Chrome](https://chromewebstore.google.com/detail/youtube-simple-view-hide/gppllamhaciichleihemgilcpledblpn) | [<img src="./assets/firefox_48.png" alt="Firefox" width="24px" height="24px" /><br/>Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-simple-view) |
